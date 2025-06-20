@@ -35,7 +35,7 @@ Sentiment labels were generated using a pre-trained Indonesian RoBERTa-based sen
 If you use this dataset in your research, please cite the following work (or this GitHub page):
 
 ```
-A. G. Ghifari, G. Y. Ananada, & K. Purwandari. (2025). A Comparative Sentiment Analysis of Public Opinion on Indonesia’s National Football Coach Using CRNN and SVM. [Conference Name / Journal Name].
+A. G. Ghifari, G. Y. Ananada, & K. Purwandari. (2025). A Comparative Sentiment Analysis of Public Opinion on Indonesia’s National Football Coach Using CRNN and SVM.
 ```
 
 ## 📜 License
